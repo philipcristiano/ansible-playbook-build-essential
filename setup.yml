@@ -1,0 +1,2 @@
+- name: Install build-essential
+  action: apt pkg=build-essential
